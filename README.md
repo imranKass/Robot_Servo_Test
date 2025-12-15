@@ -25,3 +25,15 @@ interface that allowed a smartphone to send commands such as “HEIGHT 60,” �
 <img width="923" height="422" alt="image" src="https://github.com/user-attachments/assets/f4d00abf-e874-429e-b57b-32422b371fdd" />
 
 
+# Pinout Used
+
+<img width="1025" height="589" alt="image" src="https://github.com/user-attachments/assets/4931d997-4f73-4600-93f0-6d2a8bfe9e45" />
+
+<img width="937" height="605" alt="image" src="https://github.com/user-attachments/assets/ca58e541-558e-42da-91d3-8a27b2f6c82d" />
+
+<img width="941" height="497" alt="image" src="https://github.com/user-attachments/assets/a6d92b38-7c3e-47a3-9886-41f64024a337" />
+
+
+
+
+
