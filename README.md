@@ -4,6 +4,9 @@ Introduction
 
 The primary objective of this project was to extend the TI-RSLK platform beyond mobility and incorporate a Pololu BKT18A servo-based robotic arm for manipulation capabilities. This required synchronizing hardware components, configuring PWM outputs, calibrating servo ranges, and designing software routines for smooth and repeatable motion. Ultimately, the system enables the robot to receive commands such as “HEIGHT 60,” “TILT 90,” or “GRIP 0,” and execute coordinated pick-and-place actions in real time. This report describes the design, implementation, and testing of robotic arm integration. Topics discussed include servo driver development, PWM signal calibration, UART/BLE command processing, and the challenges encountered in aligning software control with physical hardware behavior. The resulting system demonstrates how embedded programming, real-time timing control, and wireless communication can be combined to transform the TI-RSLK into a fully functional robotic manipulation platform.
 
+![IMG_5200 (1)](https://github.com/user-attachments/assets/a8254554-68f2-4994-a3a7-96fb4a2a6c2a)
+
+
 
 # Block Diagram
 
